@@ -1,0 +1,51 @@
+[33m8e69c46[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m Update test.html
+[33m71d54d4[m oh
+[33m0c839d9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m  dev -> master pull
+[33m224aaa6[m test
+[33m9df06da[m Update test.html
+[33mcf72b75[m dev 브랜치에서 변경 후 push
+[33m098e450[m master 변경
+[33m4e64222[m 테스트용
+[33m10ddc93[m 새로운 브랜치
+[33mdf9420f[m Merge branch 'dev'
+[33m8b1672b[m [update] change branch test
+[33md34640e[m [update] lecture-schedule.html에 h1태그 추가
+[33m39250b4[m [update] add h1 tag
+[33m06d3d42[m 툴 사용
+[33m17770ce[m [update] lecture-section
+[33m02feb08[m update
+[33m91e5535[m [merge] yejin -> dev
+[33m3306938[m [update] h1 내용 추가
+[33m7c4617a[m 새로운 메시지가 안생기고 변환되는건가
+[33mb79e58b[m merge
+[33mbfc2e83[m change
+[33mc12c445[m [update]
+[33mfb0e0a6[m [update] gitreset :: with '#' will be ignored, and an empty message aborts the commit.
+[33m3316e5f[m [update] git reset
+[33m5540680[m Merge branch 'newbranch'
+[33m032fd62[m conlict
+[33m8df5e93[m Merge branch 'newbranch'
+[33me687c66[m conflict test
+[33mb3ca83d[m Merge branch 'newbranch'
+[33m73f7de8[m 충돌시킬래
+[33ma905811[m Merge commit 'acf37cf90f1c2a432a4ec12912fe08369ae12b40'
+[33mdd462fc[m 충돌날텐데?
+[33macf37cf[m newbranch에서 수정
+[33mf249b3f[m 개발 1차
+[33m8a0124f[m 수정본
+[33m883ea91[m master + newbranch
+[33md1ae597[m master head 이동
+[33m2ac449b[m branch text
+[33m83ff254[m This reverts commit 21039bf024e2b52b9d18c657cdc32c2871c473a1.
+[33m210bf4c[m Merge commit '1c522eb'
+[33m1c522eb[m 수정본
+[33m7ee2337[m 0221
+[33me74e124[m Merge commit '4f2d028'
+[33m4f2d028[m asdsadasd
+[33m6df3fb4[m Merge commit '402d591'
+[33m402d591[m 중간에 추가
+[33m21039bf[m asdasD
+[33m1bd10d2[m 4
+[33mdaf99d5[m thrid text
+[33mb9d3acb[m second
+[33m12cdc39[m first commit
