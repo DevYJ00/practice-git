@@ -1,3 +1,8 @@
 # 특정파일 제외하기
 gitignoretest.html
 yong.html
+b.txt
+
+#현재경로에 있는 파일만 제외
+/fileName.js
+
