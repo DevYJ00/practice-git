@@ -7,3 +7,5 @@ c.txt
 #현재경로에 있는 파일만 제외
 /fileName.html
 
+#특정 폴더 안의 파일 다 제외
+except/
